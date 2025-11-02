@@ -1,0 +1,6 @@
+import reflex as rx
+from app.state import AppState
+
+# Tarjeta que muestra seguidores o likes
+
+def metric_card(icon: str, label: str, value: rx.Var[str])
